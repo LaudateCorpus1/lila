@@ -391,10 +391,10 @@
     "@typescript-eslint/types" "5.10.1"
     eslint-visitor-keys "^3.0.0"
 
-"@yaireo/tagify@^4.7":
-  version "4.7.2"
-  resolved "https://registry.yarnpkg.com/@yaireo/tagify/-/tagify-4.7.2.tgz#589b29c91d5685abab915404892db23289c832b6"
-  integrity sha512-05pyg5EPZ/Wvl6ZcDjvlhnaQa/kTgcjyzbfrTHPh9xkrcO6JYiZuoD1nghqTn2z/c4vLX7PDvybPJoQJELNVMA==
+"@yaireo/tagify@^4.9":
+  version "4.9.8"
+  resolved "https://registry.yarnpkg.com/@yaireo/tagify/-/tagify-4.9.8.tgz#67082ecca81fbbec4d75bb95581280f27af22fba"
+  integrity sha512-JqRTN4vb5tx06PJIRIOAlriO/B6u+a3jD/VBb5x6E1MOlC4wrMfaLHmNnrMpiZCHMXox7pVmrtNuyBe4YReJ4w==
 
 "ab@https://github.com/lichess-org/ab-stub":
   version "1.0.0"

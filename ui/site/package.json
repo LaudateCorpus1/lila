@@ -22,7 +22,7 @@
   "dependencies": {
     "@fnando/sparkline": "^0.3.10",
     "@toast-ui/editor": "^3.1",
-    "@yaireo/tagify": "^4.7",
+    "@yaireo/tagify": "^4.9",
     "apexcharts": "^3.27.1",
     "chat": "2.0.0",
     "common": "2.0.0",
